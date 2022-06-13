@@ -1,5 +1,4 @@
-TITLE
-
+<!-- TITLE -->
 # Gerador de Bilhetes da Mega Sena
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-meg-sen&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
