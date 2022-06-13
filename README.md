@@ -4,7 +4,7 @@
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDOS
 
-* [VISTA POR CIMA](#vista-por-cima)
+<!-- * [VISTA POR CIMA](#vista-por-cima) -->
   <!-- * [FOTO DA TELA](#foto-da-tela) -->
   <!-- * [LINKS](#links) -->
 * [MEU PROCESSO](#meu-processo)
