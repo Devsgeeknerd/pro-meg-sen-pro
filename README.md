@@ -10,7 +10,7 @@
 * [MEU PROCESSO](#meu-processo)
   * [CONSTRUIDO COM](#construido-com)
   <!-- * [O QUE APRENDI](#o-que-aprendi) -->
-  * [DESENVOLVIMENTO CONTINUO](#desenvolvimento-continuo)
+  <!-- * [DESENVOLVIMENTO CONTINUO](#desenvolvimento-continuo) -->
   * [RECURSOS ÚTEIS](#recursos-uteis)
 * [AUTORES](#autores)
 
