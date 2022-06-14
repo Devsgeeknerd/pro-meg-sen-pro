@@ -18,3 +18,4 @@ print('-' * 30)
 
 # Pede para o usuário quantos jogos serão gerados.
 quantidade = int(input('Quantos bilhetes serão gerados? '))
+total = 1
