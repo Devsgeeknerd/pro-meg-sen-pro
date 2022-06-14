@@ -2,19 +2,19 @@
 # Gerador de Bilhetes da Mega Sena
 
 <!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDOS
+<!-- ## TABELA DE CONTEÚDOS -->
 
-<!-- * [VISTA POR CIMA](#vista-por-cima) -->
-  <!-- * [FOTO DA TELA](#foto-da-tela) -->
-  <!-- * [LINKS](#links) -->
+* [VISTA POR CIMA](#vista-por-cima)
+  * [FOTO DA TELA](#foto-da-tela)
+  * [LINKS](#links)
 * [MEU PROCESSO](#meu-processo)
-  * [CONSTRUIDO COM](#construido-com)
-  <!-- * [O QUE APRENDI](#o-que-aprendi) -->
-  <!-- * [DESENVOLVIMENTO CONTINUO](#desenvolvimento-continuo) -->
-  <!-- * [RECURSOS ÚTEIS](#recursos-uteis) -->
+  * [CONSTRUÍDO COM](#construído-com)
+  * [O QUE APRENDI](#o-que-aprendi)
+  * [DESENVOLVIMENTO CONTÍNUO](#desenvolvimento-contínuo)
+  * [RECURSOS ÚTEIS](#recursos-úteis)
 * [AUTORES](#autores)
-<!-- * [AGRADECIMENTOS](#agradecimentos) -->
-* [INFORMAÇÕES](#informacoes)
+* [AGRADECIMENTOS](#agradecimentos)
+* [INFORMAÇÕES](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
@@ -29,6 +29,25 @@
 ## MEU PROCESSO
 
 <!-- BUILT WITH -->
+### CONSTRUÍDO COM
+
+<!-- WHAT I LEARNED -->
+<!-- ### O QUE APRENDI -->
+
+<!-- CONTINUED DEVELOPMENT -->
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+
+<!-- USEFUL RESOURCES -->
+<!-- ### RECURSOS ÚTEIS -->
+
+<!-- AUTHORS -->
+## AUTORES
+
+<!-- ACKNOWLEDGMENTS -->
+<!-- ## AGRADECIMENTOS -->
+
+<!-- INFORMATION -->
+## INFORMAÇÕES
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-meg-sen&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
