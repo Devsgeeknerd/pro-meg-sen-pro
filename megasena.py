@@ -29,3 +29,4 @@ while total <= quantidade:
         """ Loop para gerar os números. """
         numero = randint(1, 60)
         """ Variável para armazenar o número gerado. """
+        if numero not in lista:
