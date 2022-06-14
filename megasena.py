@@ -1,2 +1,2 @@
 # Módulos
-from random
+from random import randint
