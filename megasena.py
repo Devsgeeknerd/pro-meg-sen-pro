@@ -26,3 +26,4 @@ while total <= quantidade:
     contador = 0
     """ Variável para armazenar a contagem. """
     while True:
+        """ Loop para gerar os números. """
