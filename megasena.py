@@ -20,3 +20,5 @@ print('-' * 30)
 quantidade = int(input('Quantos bilhetes serão gerados? '))
 total = 1
 """ Variável para armazenar a quantidade de jogos. """
+
+# Loop para gerar os jogos.
