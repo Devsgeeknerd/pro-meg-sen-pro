@@ -4,7 +4,10 @@ from random import randint
 from time import sleep
 """ Módulo para aguardar """
 
+# Variáveis
 lista = list()
 """ Lista para armazenar os números gerados """
 jogos = list()
 """ Lista para armazenar os jogos gerados """
+
+#
