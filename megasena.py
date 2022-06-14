@@ -24,3 +24,4 @@ total = 1
 # Loop para gerar os jogos.
 while total <= quantidade:
     contador = 0
+    """ Variável para armazenar a contagem. """
