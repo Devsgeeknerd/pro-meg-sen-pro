@@ -5,3 +5,4 @@ from time import sleep
 """ Módulo para aguardar """
 
 lista = list()
+""" Lista para armazenar os números gerados """
