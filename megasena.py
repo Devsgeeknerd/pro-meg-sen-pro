@@ -22,3 +22,4 @@ total = 1
 """ Variável para armazenar a quantidade de jogos. """
 
 # Loop para gerar os jogos.
+while total <= quantidade:
