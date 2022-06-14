@@ -7,3 +7,4 @@ from time import sleep
 lista = list()
 """ Lista para armazenar os números gerados """
 jogos = list()
+""" Lista para armazenar os jogos gerados """
