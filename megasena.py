@@ -12,3 +12,4 @@ jogos = list()
 
 # Titulo do programa.
 print('-' * 30)
+print('         MEGA SENA         ')
