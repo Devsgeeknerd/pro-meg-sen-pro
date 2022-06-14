@@ -25,3 +25,4 @@ total = 1
 while total <= quantidade:
     contador = 0
     """ Variável para armazenar a contagem. """
+    while True:
