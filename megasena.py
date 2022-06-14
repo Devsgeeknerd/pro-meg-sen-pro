@@ -17,3 +17,4 @@ print('-' * 30)
 """ Printa o título do programa. """
 
 # Pede para o usuário quantos jogos serão gerados.
+quantidade = int(input('Quantos bilhetes serão gerados? '))
