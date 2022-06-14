@@ -1,13 +1,13 @@
-# Módulos
+# Módulos.
 from random import randint
-""" Módulo para gerar números aleatórios """
+""" Módulo para gerar números aleatórios. """
 from time import sleep
-""" Módulo para aguardar """
+""" Módulo para aguardar. """
 
-# Variáveis
+# Variáveis.
 lista = list()
-""" Lista para armazenar os números gerados """
+""" Lista para armazenar os números gerados. """
 jogos = list()
-""" Lista para armazenar os jogos gerados """
+""" Lista para armazenar os jogos gerados. """
 
-#
+# Titulo do programa.
