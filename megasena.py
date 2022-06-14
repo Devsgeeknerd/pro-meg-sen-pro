@@ -27,3 +27,4 @@ while total <= quantidade:
     """ Variável para armazenar a contagem. """
     while True:
         """ Loop para gerar os números. """
+        numero = randint(1, 60)
