@@ -30,3 +30,4 @@ while total <= quantidade:
         numero = randint(1, 60)
         """ Variável para armazenar o número gerado. """
         if numero not in lista:
+            """ Verifica se o numero ja existe na lista. """
