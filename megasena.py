@@ -11,3 +11,4 @@ jogos = list()
 """ Lista para armazenar os jogos gerados. """
 
 # Titulo do programa.
+print('-' * 30)
