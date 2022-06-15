@@ -36,3 +36,4 @@ while total <= quantidade:
             contador += 1
             """ Conta o numero adicionado. """
         if contador >= 6:
+            """ Verifica se ja existe 6 números. """
