@@ -44,3 +44,4 @@ while total <= quantidade:
     jogos.append(lista[:])
     """ Adiciona a lista na lista de jogos. """
     lista.clear()
+    """ Limpa a lista. """
