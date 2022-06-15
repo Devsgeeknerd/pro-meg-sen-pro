@@ -35,3 +35,4 @@ while total <= quantidade:
             """ Adiciona o numero na lista. """
             contador += 1
             """ Conta o numero adicionado. """
+        if contador >= 6:
