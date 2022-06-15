@@ -50,3 +50,4 @@ while total <= quantidade:
 print('-=' * 6, f'SORTEANDO OS {quantidade} JOGOS', '-=' * 6)
 """ Printa os jogos gerados. """
 for i, l in enumerate(jogos):
+""" Loop para printar os jogos. """
