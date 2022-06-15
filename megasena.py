@@ -52,3 +52,4 @@ print('-=' * 6, f'SORTEANDO OS {quantidade} JOGOS', '-=' * 6)
 for i, l in enumerate(jogos):
     """ Loop para printar os jogos. """
     print(f'Jogo {i + 1}: {l}')
+    """ Printa o jogo. """
