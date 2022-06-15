@@ -33,3 +33,4 @@ while total <= quantidade:
             """ Verifica se o numero ja existe na lista. """
             lista.append(numero)
             """ Adiciona o numero na lista. """
+            contador += 1
