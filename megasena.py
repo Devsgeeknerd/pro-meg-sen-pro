@@ -55,3 +55,4 @@ for i, l in enumerate(jogos):
     """ Printa o jogo. """
     sleep(1)
     """ Aguarda 1 segundo. """
+print('-=' * 9, '< BOA SORTE!!! >', '-=' * 9)
