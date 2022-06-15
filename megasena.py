@@ -32,3 +32,4 @@ while total <= quantidade:
         if numero not in lista:
             """ Verifica se o numero ja existe na lista. """
             lista.append(numero)
+            """ Adiciona o numero na lista. """
