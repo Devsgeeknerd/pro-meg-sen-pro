@@ -47,3 +47,4 @@ while total <= quantidade:
     """ Limpa a lista. """
     total += 1
     """ Conta o total de jogos. """
+print('-=' * 6, f'SORTEANDO OS {quantidade} JOGOS', '-=' * 6)
