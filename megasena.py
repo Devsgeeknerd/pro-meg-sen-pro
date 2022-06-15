@@ -31,3 +31,4 @@ while total <= quantidade:
         """ Variável para armazenar o número gerado. """
         if numero not in lista:
             """ Verifica se o numero ja existe na lista. """
+            lista.append(numero)
