@@ -45,3 +45,4 @@ while total <= quantidade:
     """ Adiciona a lista na lista de jogos. """
     lista.clear()
     """ Limpa a lista. """
+    total += 1
