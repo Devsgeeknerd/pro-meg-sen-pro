@@ -38,3 +38,4 @@ while total <= quantidade:
         if contador >= 6:
             """ Verifica se ja existe 6 números. """
             break
+            """ Sai do loop. """
