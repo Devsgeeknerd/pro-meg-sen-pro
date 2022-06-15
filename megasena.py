@@ -39,3 +39,4 @@ while total <= quantidade:
             """ Verifica se ja existe 6 números. """
             break
             """ Sai do loop. """
+    lista.sort()
