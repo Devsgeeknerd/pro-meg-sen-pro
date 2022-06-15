@@ -48,4 +48,5 @@ while total <= quantidade:
     total += 1
     """ Conta o total de jogos. """
 print('-=' * 6, f'SORTEANDO OS {quantidade} JOGOS', '-=' * 6)
+""" Printa os jogos gerados. """
 for i, l in enumerate(jogos):
