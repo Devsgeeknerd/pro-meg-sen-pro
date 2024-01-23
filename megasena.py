@@ -1,59 +1,62 @@
-# Módulos.
 from random import randint
-""" Módulo para gerar números aleatórios. """
 from time import sleep
-""" Módulo para aguardar. """
 
-# Variáveis.
+# Lista temporária para armazenar números sorteados.
 lista = list()
-""" Lista para armazenar os números gerados. """
-jogos = list()
-""" Lista para armazenar os jogos gerados. """
 
-# Titulo do programa.
+# Lista para armazenar os bilhetes gerados.
+jogos = list()
+
+# Mensagem visual.
 print('-' * 30)
 print('         MEGA SENA         ')
 print('-' * 30)
-""" Printa o título do programa. """
 
-# Pede para o usuário quantos jogos serão gerados.
+# Solicita ao usuário a quantidade de bilhetes desejada.
 quantidade = int(input('Quantos bilhetes serão gerados? '))
 total = 1
-""" Variável para armazenar a quantidade de jogos. """
 
-# Loop para gerar os jogos.
+# Loop principal para gerar os bilhetes.
 while total <= quantidade:
+    # Inicializa a contagem de números únicos para cada bilhete.
     contador = 0
-    """ Variável para armazenar a contagem. """
+    
+    # Loop interno para gerar 6 números únicos para cada bilhete.
     while True:
-        """ Loop para gerar os números. """
+        # Gera um número aleatório entre 1 e 60.
         numero = randint(1, 60)
-        """ Variável para armazenar o número gerado. """
+        
+        # Verifica se o número já foi sorteado.
         if numero not in lista:
-            """ Verifica se o numero ja existe na lista. """
+            # Adiciona o número à lista temporária.
             lista.append(numero)
-            """ Adiciona o numero na lista. """
+            
+            # Incrementa a contagem de números únicos.
             contador += 1
-            """ Conta o numero adicionado. """
+        
+        # Se atingiu 6 números únicos, sai do loop interno.
         if contador >= 6:
-            """ Verifica se ja existe 6 números. """
             break
-            """ Sai do loop. """
+    
+    # Ordena a lista temporária em ordem crescente.
     lista.sort()
-    """ Ordena a lista. """
+    
+    # Adiciona uma cópia da lista temporária à lista de bilhetes
     jogos.append(lista[:])
-    """ Adiciona a lista na lista de jogos. """
+    
+    # Limpa a lista temporária para o próximo bilhete.
     lista.clear()
-    """ Limpa a lista. """
+    
+    # Incrementa o total de bilhetes gerados.
     total += 1
-    """ Conta o total de jogos. """
+
+# Mensagem indicando que os bilhetes estão sendo sorteados.
 print('-=' * 6, f'SORTEANDO OS {quantidade} JOGOS', '-=' * 6)
-""" Printa os jogos gerados. """
+
+# Imprime cada bilhete numerado com pausa de 1 segundo entre cada impressão.
 for i, l in enumerate(jogos):
-    """ Loop para printar os jogos. """
     print(f'Jogo {i + 1}: {l}')
-    """ Printa o jogo. """
     sleep(1)
-    """ Aguarda 1 segundo. """
+
+# Mensagem desejando boa sorte.
 print('-=' * 9, '< BOA SORTE!!! >', '-=' * 9)
-""" Printa o fim do programa. """

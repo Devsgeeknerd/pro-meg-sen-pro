@@ -1,6 +1,15 @@
 <!-- Título -->
 # Gerador de Bilhetes Para Mega Sena
 
+> [!IMPORTANT]\
+> Boas práticas e sugestões de melhorias:
+>
+> * Adicionar comentários explicativos em trechos mais complexos.
+> * Poderia ser útil encapsular a lógica principal em uma função para melhor modularidade.
+> * Utilizar nomes de variáveis mais descritivos para melhorar a legibilidade do código.
+> * Validar a entrada do usuário para garantir que seja um número inteiro positivo.
+> * Remover a indentação excessiva, que pode ser causada por copiar e colar do código original.
+
 <!-- Informações -->
 ## &#8505; Informações
 
